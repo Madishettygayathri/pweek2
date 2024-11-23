@@ -1,2 +1,2 @@
 print("hello devops")
-print("bgm")
+print("nani")
